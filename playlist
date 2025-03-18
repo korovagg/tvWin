@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5d4dzbx6v9rn39p"
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/360logoblack.png/1200px-360logoblack.png" group-title="Основные",360° (1080p)
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° (1080p)" tvg-logo="" group-title="Основные",360° (1080p)
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/2048px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Основные",Мир (1080p)
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир (1080p)" tvg-logo="" group-title="Основные",Мир (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (1080p)" tvg-logo="" group-title="Основные",НТВ (1080p)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
@@ -27,11 +27,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 http://185.50.148.2:7710/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="Planeta-RTR (720p)" tvg-logo="" group-title="Основные",Planeta-RTR (720p)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости (1080p)" tvg-logo="https://rusety.ru/wp-content/uploads/2020/12/360_black_news.png" group-title="Новостные",360° Новости (1080p)
+#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости (1080p)" tvg-logo="" group-title="Новостные",360° Новости (1080p)
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия (1080p)" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/c/cf/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F_%D0%A2%D0%92_05.02.2024.png/revision/latest?cb=20240222083450&path-prefix=ru" group-title="Новостные",Известия (1080p)
+#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия (1080p)" tvg-logo="" group-title="Новостные",Известия (1080p)
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/83/%D0%9C%D0%B8%D1%80_24_%28%D1%8D%D1%84%D0%B8%D1%80%29.svg/revision/latest/scale-to-width-down/250?cb=20210713113904&path-prefix=ru" group-title="Новостные",Мир 24 (1080p)
+#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 (1080p)" tvg-logo="" group-title="Новостные",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСН (1080p)" tvg-logo="" group-title="Новостные",ОСН (1080p)
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
@@ -59,7 +59,7 @@ http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
 http://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая планета (576p)" tvg-logo="" group-title="Познавательные",Живая планета (576p)
 http://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/90/%D0%9C%D0%BE%D1%8F_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9%29.svg/revision/latest/scale-to-width-down/250?cb=20130316154205&path-prefix=ru" group-title="Познавательные",Моя Планета (1080p)
+#EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета (1080p)" tvg-logo="" group-title="Познавательные",Моя Планета (1080p)
 http://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка (576p)" tvg-logo="" group-title="Познавательные",Охота и рыбалка (576p)
 http://stream2.cinerama.uz/1038/tracks-v1a1/mono.m3u8
@@ -79,11 +79,11 @@ http://86.57.198.251:8181/play/1017/index.m3u8
 https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="viju+ Planet (1080p)" tvg-logo="" group-title="Познавательные",viju+ Planet (1080p)
 http://130.193.73.10:8937/play/a01l
-#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 КАНАЛ Омск (1080p)" tvg-logo="https://tvtvtv.ru/icons/12_kanal_omsk.png" group-title="Региональный",12 КАНАЛ Омск (1080p)
+#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 КАНАЛ Омск (1080p)" tvg-logo="" group-title="Региональный",12 КАНАЛ Омск (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="bst" tvg-name="БСТ (576p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDGCW2sThGRs1n5TP5FmtTIZc1ZPnLFKAKCwKpME1QJA=s900-c-k-c0x00ffffff-no-rj" group-title="Региональный",БСТ (576p)
+#EXTINF:-1 tvg-id="bst" tvg-name="БСТ (576p)" tvg-logo="" group-title="Региональный",БСТ (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 (720p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c7/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4_24_%28%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%29.png/revision/latest?cb=20200308232639&path-prefix=ru" group-title="Региональный",Запад 24 (720p)
+#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 (720p)" tvg-logo="" group-title="Региональный",Запад 24 (720p)
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="86-surgut" tvg-name="С1 Сургут 86 HD (1080p)" tvg-logo="" group-title="Региональный",С1 Сургут 86 HD (1080p)
 https://sitv.ru/hls/s86.m3u8
@@ -97,9 +97,9 @@ http://109.200.130.123:7537/play/a02s
 http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi (576p)" tvg-logo="" group-title="Кино и сериалы",.sci-fi (576p)
 http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВГТРК СМОТРИМ (1080p)" tvg-logo="https://play-lh.googleusercontent.com/Z4Xygm4nuEoFzJjaZFNw1fSpWavZTjkxQYL9z3FPO24XVYgFf8e5mV4ls3BIfXf2fg" group-title="Кино и сериалы",ВГТРК СМОТРИМ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВГТРК СМОТРИМ (1080p)" tvg-logo="" group-title="Кино и сериалы",ВГТРК СМОТРИМ (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум HD (1080p)" tvg-logo="https://ramnet.ru/tv/logo/000002943.png" group-title="Кино и сериалы",Дом кино Премиум HD (1080p)
+#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум HD (1080p)" tvg-logo="" group-title="Кино и сериалы",Дом кино Премиум HD (1080p)
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама (576p)" tvg-logo="" group-title="Кино и сериалы",Дорама (576p)
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
@@ -117,9 +117,9 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноман (396p) -" tvg-logo="" group-title="Кино и сериалы",Киноман (396p) -
 http://88.218.242.237:8000/play/a002
-#EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ (576p)" tvg-logo="https://xittv.net/img/can/139.png" group-title="Кино и сериалы",Кинопоказ (576p)
+#EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ (576p)" tvg-logo="" group-title="Кино и сериалы",Кинопоказ (576p)
 http://31.148.48.15:80/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера (1080p) -" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/7c7/160_160_1/45512419104aae17300e0380ac16fd16.png" group-title="Кино и сериалы",Кинопремьера (1080p) -
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера (1080p) -" tvg-logo="" group-title="Кино и сериалы",Кинопремьера (1080p) -
 http://45.159.74.13:80/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ (576p)" tvg-logo="" group-title="Кино и сериалы",НСТ (576p)
 http://stream01.vnet.am/Channel_125/mono.m3u8
@@ -261,11 +261,11 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVM Channel (576p)" tvg-logo="" group-title="Другие",TVM Channel (576p)
 http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БРОДИЛО.ТВ (720p)" tvg-logo="https://brodilo.tv/brobot360x360.png" group-title="Без метки",БРОДИЛО.ТВ (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БРОДИЛО.ТВ (720p)" tvg-logo="" group-title="Без метки",БРОДИЛО.ТВ (720p)
 http://brodilo.tv/channel.php
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вместе-РФ (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B5-%D0%A0%D0%A4.png/revision/latest?cb=20131005023128&path-prefix=ru" group-title="Без метки",Вместе-РФ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вместе-РФ (1080p)" tvg-logo="" group-title="Без метки",Вместе-РФ (1080p)
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДУМА ТВ (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%22%D0%94%D0%A3%D0%9C%D0%90_%D0%A2%D0%92%22.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%22%D0%94%D0%A3%D0%9C%D0%90_%D0%A2%D0%92%22.svg.png" group-title="Без метки",ДУМА ТВ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДУМА ТВ (1080p)" tvg-logo="" group-title="Без метки",ДУМА ТВ (1080p)
 https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зал суда (576p)" tvg-logo="" group-title="Без метки",Зал суда (576p)
 http://95.156.76.230:33001/udp/230.4.34.6:1234
@@ -273,11 +273,11 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ключ (576p)" tvg-logo="" group-title="Без метки",Ключ (576p)
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Красная Линия (480p)" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/95b/160_160_1/4d9f5c2a9b57bfbca4a2eac513ec4e7e.png" group-title="Без метки",Красная Линия (480p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Красная Линия (480p)" tvg-logo="" group-title="Без метки",Красная Линия (480p)
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик-ТВ (1080p)" tvg-logo="https://berezka.live/logo/krik-tv.png" group-title="Без метки",Крик-ТВ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик-ТВ (1080p)" tvg-logo="" group-title="Без метки",Крик-ТВ (1080p)
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЛДПР ТВ (1080p)" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/ldpr_live.png" group-title="Без метки",ЛДПР ТВ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЛДПР ТВ (1080p)" tvg-logo="" group-title="Без метки",ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Надежда (720p)" tvg-logo="" group-title="Без метки",Надежда (720p)
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
@@ -379,43 +379,43 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Губерния (720p)" tvg-logo="" group-title="Мусор (может не работать)",TV Губерния (720p)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Аист ТВ (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4a/%D0%90%D0%98%D0%A1%D0%A2_%D0%A2%D0%92_%282024%29_%D1%84%D0%BE%D0%BD.png/revision/latest/scale-to-width-down/200?cb=20240914122819&path-prefix=ru" group-title="Мусор (может не работать)",Аист ТВ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Аист ТВ (1080p)" tvg-logo="" group-title="Мусор (может не работать)",Аист ТВ (1080p)
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Алмазный край (576p)" tvg-logo="https://yt3.ggpht.com/xqLy_sH6qLrTPdLWfaY59_z2hAT_85Prcu560PIVNJ3qe9cBoZhBUuma9Kmvu8eD1OItKGtzrQ=s800-c-k-c0x00ffffff-no-rj" group-title="Мусор (может не работать)",Алмазный край (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Алмазный край (576p)" tvg-logo="" group-title="Мусор (может не работать)",Алмазный край (576p)
 https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Алмазный край (720p)" tvg-logo="https://yt3.ggpht.com/xqLy_sH6qLrTPdLWfaY59_z2hAT_85Prcu560PIVNJ3qe9cBoZhBUuma9Kmvu8eD1OItKGtzrQ=s800-c-k-c0x00ffffff-no-rj" group-title="Мусор (может не работать)",Алмазный край (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Алмазный край (720p)" tvg-logo="" group-title="Мусор (может не работать)",Алмазный край (720p)
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Архыз 24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e8/%D0%90%D1%80%D1%85%D1%8B%D0%B7_24.png/revision/latest/scale-to-width-down/1200?cb=20210420181432&path-prefix=ru" group-title="Мусор (может не работать)",Архыз 24 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Архыз 24 (1080p)" tvg-logo="" group-title="Мусор (может не работать)",Архыз 24 (1080p)
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астрахань 24 (480p)" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/lossless-page1-1200px-logotip_telekanala_astrahan_24.tif.png" group-title="Мусор (может не работать)",Астрахань 24 (480p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астрахань 24 (480p)" tvg-logo="" group-title="Мусор (может не работать)",Астрахань 24 (480p)
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Байкал Универ ТВ (720p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/62/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D0%A2%D0%92_%D0%BC%D0%B8%D0%BD%D0%B8.png/revision/latest/scale-to-width-down/250?cb=20220414135833&path-prefix=ru" group-title="Мусор (может не работать)",Байкал Универ ТВ (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Байкал Универ ТВ (720p)" tvg-logo="" group-title="Мусор (может не работать)",Байкал Универ ТВ (720p)
 https://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Белгород 24 (720p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/01/%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_24_%28%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29_%28%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F_%D0%B2_%D1%8D%D1%84" group-title="Мусор (может не работать)",Белгород 24 (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Белгород 24 (720p)" tvg-logo="" group-title="Мусор (может не работать)",Белгород 24 (720p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Грозный (720p)" tvg-logo="https://ru.trefoil.tv/uploads/posts/2023-10/chgtrk-grozny.webp" group-title="Мусор (может не работать)",Грозный (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Грозный (720p)" tvg-logo="" group-title="Мусор (может не работать)",Грозный (720p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Девятка ТВ (576p)" tvg-logo="" group-title="Мусор (может не работать)",Девятка ТВ (576p)
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино Премиум HD (720p)" tvg-logo="" group-title="Мусор (может не работать)",Дом кино Премиум HD (720p)
 http://213.226.137.140:81/tl/l75/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Енисей HD (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9_%28%D0%B3._%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%29_%282014-%D0%BD.%D0%B2.%2C_%D1%81%D0%B8%D0%BD%D0%B8%D0%B9%29.png/revision/latest/scale-to-w" group-title="Мусор (может не работать)",Енисей HD (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Енисей HD (1080p)" tvg-logo="" group-title="Мусор (может не работать)",Енисей HD (1080p)
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Истоки (576p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7a/%D0%98%D1%81%D1%82%D0%BE%D0%BA%D0%B8_%28%D0%B3._%D0%9E%D1%80%D1%91%D0%BB%29_2.png/revision/latest/scale-to-width-down/1200?cb=20221016122335&path-prefix=ru" group-title="Мусор (может не работать)",Истоки (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Истоки (576p)" tvg-logo="" group-title="Мусор (может не работать)",Истоки (576p)
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кавказ 24 (576p)" tvg-logo="https://www.cableman.ru/sites/default/files/kavkaz_24.png" group-title="Мусор (может не работать)",Кавказ 24 (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кавказ 24 (576p)" tvg-logo="" group-title="Мусор (может не работать)",Кавказ 24 (576p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/1_93b61749/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Краснодар (1080p)" tvg-logo="https://tvkrasnodar.ru/local/templates/.default/img/logo-mtrk.svg" group-title="Мусор (может не работать)",Краснодар (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Краснодар (1080p)" tvg-logo="" group-title="Мусор (может не работать)",Краснодар (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАГАС (1080p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4a/%D0%9D%D0%A2%D0%A0%D0%9A_%D0%9C%D0%B0%D0%B3%D0%B0%D1%81_%282023%29.png/revision/latest/scale-to-width-down/220?cb=20240120194845&path-prefix=ru" group-title="Мусор (может не работать)",МАГАС (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАГАС (1080p)" tvg-logo="" group-title="Мусор (может не работать)",МАГАС (1080p)
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! (576p)" tvg-logo="" group-title="Мусор (может не работать)",Матч! (576p)
 http://130.193.73.10:8937/play/a048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миллет (720p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/12/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%82.png/revision/latest?cb=20220210061100&path-prefix=ru" group-title="Мусор (может не работать)",Миллет (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миллет (720p)" tvg-logo="" group-title="Мусор (может не работать)",Миллет (720p)
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Белогорья (1080p)" tvg-logo="https://mirbelogorya.ru/templates/bootstrap/images/logo-mb-circle.png" group-title="Мусор (может не работать)",Мир Белогорья (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Белогорья (1080p)" tvg-logo="" group-title="Мусор (может не работать)",Мир Белогорья (1080p)
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МТВ (720p)" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a2/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%A2%D0%92.png/revision/latest/scale-to-w" group-title="Мусор (может не работать)",МТВ (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МТВ (720p)" tvg-logo="" group-title="Мусор (может не работать)",МТВ (720p)
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НВК Саха (1080p)" tvg-logo="" group-title="Мусор (может не работать)",НВК Саха (1080p)
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
