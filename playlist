@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5d4dzbx6v9rn39p"
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° (1080p)" tvg-logo="" group-title="Основные",360° (1080p)
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° [ꜰʜᴅ]" tvg-logo="" group-title="Основные",360° [ꜰʜᴅ]
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир (1080p)" tvg-logo="" group-title="Основные",Мир (1080p)
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир [ꜰʜᴅ]" tvg-logo="" group-title="Основные",Мир [ꜰʜᴅ]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (1080p)" tvg-logo="" group-title="Основные",НТВ (1080p)
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ [ꜰʜᴅ]" tvg-logo="" group-title="Основные",НТВ [ꜰʜᴅ]
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD [ʜᴅ]" tvg-logo="" group-title="Основные",Первый канал HD [ʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница HD (1080p)" tvg-logo="" group-title="Основные",Пятница HD (1080p)
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница HD [ꜰʜᴅ]" tvg-logo="" group-title="Основные",Пятница HD [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал (480p)" tvg-logo="" group-title="Основные",Пятый канал (480p)
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-name="РБК (1080p)" tvg-logo="" group-title="Основные",РБК (1080p)
+#EXTINF:-1 tvg-id="rbk" tvg-name="РБК [ꜰʜᴅ]" tvg-logo="" group-title="Основные",РБК [ꜰʜᴅ]
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ HD [ꜰʜᴅ]" tvg-logo="" group-title="Основные",РЕН ТВ HD [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD (1080p)" tvg-logo="" group-title="Основные",Россия 1 HD (1080p)
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD [ꜰʜᴅ]" tvg-logo="" group-title="Основные",Россия 1 HD [ꜰʜᴅ]
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС [ꜰʜᴅ]" tvg-logo="" group-title="Основные",СТС [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
@@ -25,73 +25,75 @@ https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD [ʜᴅ]" tvg-logo="" group-title="Основные",ТНТ HD [ʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="Planeta-RTR (720p)" tvg-logo="" group-title="Основные",Planeta-RTR (720p)
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="Planeta-RTR [ʜᴅ]" tvg-logo="" group-title="Основные",Planeta-RTR [ʜᴅ]
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости (1080p)" tvg-logo="" group-title="Новостные",360° Новости (1080p)
+#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости [ꜰʜᴅ]" tvg-logo="" group-title="Новостные",360° Новости [ꜰʜᴅ]
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия (1080p)" tvg-logo="" group-title="Новостные",Известия (1080p)
+#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия [ꜰʜᴅ]" tvg-logo="" group-title="Новостные",Известия [ꜰʜᴅ]
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 (1080p)" tvg-logo="" group-title="Новостные",Мир 24 (1080p)
+#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 [ꜰʜᴅ]" tvg-logo="" group-title="Новостные",Мир 24 [ꜰʜᴅ]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСН (1080p)" tvg-logo="" group-title="Новостные",ОСН (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСН [ꜰʜᴅ]" tvg-logo="" group-title="Новостные",ОСН [ꜰʜᴅ]
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24 (576p)" tvg-logo="" group-title="Новостные",Россия 24 (576p)
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2 [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",2x2 [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (1080p)" tvg-logo="" group-title="Развлекательные",Домашний (1080p)
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",Домашний [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда (1080p)" tvg-logo="" group-title="Развлекательные",Звезда (1080p)
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",Звезда [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс (1080p)" tvg-logo="" group-title="Развлекательные",Звезда Плюс (1080p)
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",Звезда Плюс [ꜰʜᴅ]
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право (576p)" tvg-logo="" group-title="Развлекательные",НТВ Право (576p)
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль HD (1080p)" tvg-logo="" group-title="Развлекательные",НТВ Стиль HD (1080p)
+#EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль HD [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",НТВ Стиль HD [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle_hd.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love (576p)" tvg-logo="" group-title="Развлекательные",СТС Love (576p)
 http://31.148.48.15:80/STS_Love/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4 (1080p)" tvg-logo="" group-title="Развлекательные",ТНТ4 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4 [ꜰʜᴅ]" tvg-logo="" group-title="Развлекательные",ТНТ4 [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="che" tvg-name="Че! (576p)" tvg-logo="" group-title="Развлекательные",Че! (576p)
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-name="Ю (576p)" tvg-logo="" group-title="Развлекательные",Ю (576p)
 http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя Планета (1080p)" tvg-logo="" group-title="Познавательные",Моя Планета (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вместе-РФ (1080p)" tvg-logo="" group-title="Познавательные",Вместе-РФ (1080p)
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДУМА ТВ (1080p)" tvg-logo="" group-title="Познавательные",ДУМА ТВ (1080p)
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Надежда (720p)" tvg-logo="" group-title="Познавательные",Надежда (720p)
+http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Неизвестная Россия (1080p)" tvg-logo="" group-title="Познавательные",Неизвестная Россия (1080p)
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали! (576p)" tvg-logo="" group-title="Познавательные",Поехали! (576p)
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТД (1080p)" tvg-logo="" group-title="Познавательные",РТД (1080p)
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз (1080p)" tvg-logo="" group-title="Познавательные",Союз (1080p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя Планета [ꜰʜᴅ]" tvg-logo="" group-title="Познавательные",Моя Планета [ꜰʜᴅ]
 http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К (1080p)" tvg-logo="" group-title="Познавательные",Россия К (1080p)
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К [ꜰʜᴅ]" tvg-logo="" group-title="Познавательные",Россия К [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас [ꜱᴅ]" tvg-logo="" group-title="Познавательные",Спас [ꜱᴅ]
-https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery (1080p)" tvg-logo="" group-title="Познавательные",Discovery (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СПАС [576]" tvg-logo="" group-title="Познавательные",СПАС [576]
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery [ꜰʜᴅ]" tvg-logo="" group-title="Познавательные",Discovery [ꜰʜᴅ]
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID (1080p)" tvg-logo="" group-title="Познавательные",ID (1080p)
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-name="ID [ꜰʜᴅ]" tvg-logo="" group-title="Познавательные",ID [ꜰʜᴅ]
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 КАНАЛ Омск (1080p)" tvg-logo="" group-title="Региональный",12 КАНАЛ Омск (1080p)
-https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="bst" tvg-name="БСТ (576p)" tvg-logo="" group-title="Региональный",БСТ (576p)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 (720p)" tvg-logo="" group-title="Региональный",Запад 24 (720p)
-http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="86-surgut" tvg-name="С1 Сургут 86 HD (1080p)" tvg-logo="" group-title="Региональный",С1 Сургут 86 HD (1080p)
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="s1-surgut" tvg-name="С1 Сургут HD (1080p)" tvg-logo="" group-title="Региональный",С1 Сургут HD (1080p)
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-name="UNIVER TV (1080p)" tvg-logo="" group-title="Региональный",UNIVER TV (1080p)
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black (576p)" tvg-logo="" group-title="Кино и сериалы",.black (576p)
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".red (576p)" tvg-logo="" group-title="Кино и сериалы",.red (576p)
 http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi (576p)" tvg-logo="" group-title="Кино и сериалы",.sci-fi (576p)
 http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВГТРК СМОТРИМ (1080p)" tvg-logo="" group-title="Кино и сериалы",ВГТРК СМОТРИМ (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВГТРК СМОТРИМ [ꜰʜᴅ]" tvg-logo="" group-title="Кино и сериалы",ВГТРК СМОТРИМ [ꜰʜᴅ]
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум HD (1080p)" tvg-logo="" group-title="Кино и сериалы",Дом кино Премиум HD (1080p)
+#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум HD [ꜰʜᴅ]" tvg-logo="" group-title="Кино и сериалы",Дом кино Премиум HD [ꜰʜᴅ]
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-name="Иллюзион+ (576p)" tvg-logo="" group-title="Кино и сериалы",Иллюзион+ (576p)
 http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино Мистика (712p)" tvg-logo="" group-title="Кино и сериалы",Кино Мистика (712p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино Мистика [ʜᴅ]" tvg-logo="" group-title="Кино и сериалы",Кино Мистика [ʜᴅ]
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино Экшен (536p)" tvg-logo="" group-title="Кино и сериалы",Кино Экшен (536p)
 https://autopilot.catcast.tv/content/41333/index.m3u8
@@ -99,16 +101,14 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ (576p)" tvg-logo="" group-title="Кино и сериалы",НСТ (576p)
 http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал HD (1080p)" tvg-logo="" group-title="Кино и сериалы",НТВ Сериал HD (1080p)
+#EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал HD [ꜰʜᴅ]" tvg-logo="" group-title="Кино и сериалы",НТВ Сериал HD [ꜰʜᴅ]
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит HD (720p)" tvg-logo="" group-title="Кино и сериалы",НТВ Хит HD (720p)
+#EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит HD [ʜᴅ]" tvg-logo="" group-title="Кино и сериалы",НТВ Хит HD [ʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema (576p)" tvg-logo="" group-title="Кино и сериалы",Cinema (576p)
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World (576p)" tvg-logo="" group-title="Кино и сериалы",Viasat Kino World (576p)
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-name="2x2 (576p)" tvg-logo="" group-title="Детские",2x2 (576p)
-http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир (576p)" tvg-logo="" group-title="Детские",Детский мир (576p)
 http://dmi3y-tv.ru/hls/CH_DETSKIY_MIR.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International (432p)" tvg-logo="" group-title="Детские",Детское кино International (432p)
@@ -167,24 +167,40 @@ rtmp://212.0.213.132//NickJr
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons (1080p)" tvg-logo="" group-title="Детские",Nicktoons (1080p)
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="belarus5-inet" tvg-name="Беларусь 5 Интернет (1080p)" tvg-logo="" group-title="Спортивные",Беларусь 5 Интернет (1080p)
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-name="Беларусь 5 Интернет [ꜰʜᴅ]" tvg-logo="" group-title="Спортивные",Беларусь 5 Интернет [ꜰʜᴅ]
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD (1080p)" tvg-logo="" group-title="Спортивные",Беларусь 5 HD (1080p)
+#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD [ꜰʜᴅ]" tvg-logo="" group-title="Спортивные",Беларусь 5 HD [ꜰʜᴅ]
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! [ꜰʜᴅ]" tvg-logo="" group-title="Спортивные",Матч! [ꜰʜᴅ]
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD (1080p)" tvg-logo="" group-title="Спортивные",Eurosport 1 HD (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD [ꜰʜᴅ]" tvg-logo="" group-title="Спортивные",Eurosport 1 HD [ꜰʜᴅ]
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз (1080p)" tvg-logo="" group-title="Музыкальные",МузСоюз (1080p)
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз [ꜰʜᴅ]" tvg-logo="" group-title="Музыкальные",МузСоюз [ꜰʜᴅ]
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM (720p)" tvg-logo="" group-title="Музыкальные",Страна FM (720p)
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM [ʜᴅ]" tvg-logo="" group-title="Музыкальные",Страна FM [ʜᴅ]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tancuj" tvg-name="Танцуй! (576p)" tvg-logo="" group-title="Музыкальные",Танцуй! (576p)
 http://109.200.130.123:7537/play/a02l
-#EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music (1080p)" tvg-logo="" group-title="Музыкальные",ТНТ Music (1080p)
+#EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music [ꜰʜᴅ]" tvg-logo="" group-title="Музыкальные",ТНТ Music [ꜰʜᴅ]
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV (1080p)" tvg-logo="" group-title="Музыкальные",RU.TV (1080p)
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV [ꜰʜᴅ]" tvg-logo="" group-title="Музыкальные",RU.TV [ꜰʜᴅ]
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик-ТВ (1080p)" tvg-logo="" group-title="Региональный",Крик-ТВ (1080p)
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ (576p)" tvg-logo="" group-title="Региональный",Ника ТВ (576p)
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Теледом (720p)" tvg-logo="" group-title="Региональный",Теледом (720p)
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 КАНАЛ Омск [ꜰʜᴅ]" tvg-logo="" group-title="Региональный",12 КАНАЛ Омск [ꜰʜᴅ]
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="bst" tvg-name="БСТ (576p)" tvg-logo="" group-title="Региональный",БСТ (576p)
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="86-surgut" tvg-name="С1 Сургут 86 HD [ꜰʜᴅ]" tvg-logo="" group-title="Региональный",С1 Сургут 86 HD [ꜰʜᴅ]
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="s1-surgut" tvg-name="С1 Сургут HD [ꜰʜᴅ]" tvg-logo="" group-title="Региональный",С1 Сургут HD [ꜰʜᴅ]
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 tvg-id="univer-tv" tvg-name="UNIVER TV [ꜰʜᴅ]" tvg-logo="" group-title="Региональный",UNIVER TV [ꜰʜᴅ]
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний International [ᴇᴅ]" tvg-logo="" group-title="Интернациональные",Домашний International [ᴇᴅ]
 http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="ntv-mir" tvg-name="НТВ Мир [ᴇᴅ]" tvg-logo="" group-title="Интернациональные",НТВ Мир [ᴇᴅ]
@@ -197,60 +213,26 @@ https://stream01.vnet.am/Pyatnica/mono.m3u8
 http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-name="СТС International [ᴇᴅ]" tvg-logo="" group-title="Интернациональные",СТС International [ᴇᴅ]
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый информационный (1080p)" tvg-logo="" group-title="⛰︎ Беларусь",Первый информационный (1080p)
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="tcb" tvg-name="ТСВ (576p)" tvg-logo="" group-title="⛰︎ Молдова",ТСВ (576p)
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Красная Линия (480p)" tvg-logo="" group-title="Другие",Красная Линия (480p)
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЛДПР ТВ (1080p)" tvg-logo="" group-title="Другие",ЛДПР ТВ (1080p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЖД ТВ (1080p)" tvg-logo="" group-title="Другие",РЖД ТВ (1080p)
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="7tv" tvg-name="7tv (576p)" tvg-logo="" group-title="Другие",7tv (576p)
 http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зал суда (576p)" tvg-logo="" group-title="Другие",Зал суда (576p)
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп ТВ (576p)" tvg-logo="" group-title="Другие",Калейдоскоп ТВ (576p)
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-name="Продвижение (576p)" tvg-logo="" group-title="Другие",Продвижение (576p)
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVM Channel (576p)" tvg-logo="" group-title="Другие",TVM Channel (576p)
 http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БРОДИЛО.ТВ (720p)" tvg-logo="" group-title="Без метки",БРОДИЛО.ТВ (720p)
-http://brodilo.tv/channel.php
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вместе-РФ (1080p)" tvg-logo="" group-title="Без метки",Вместе-РФ (1080p)
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДУМА ТВ (1080p)" tvg-logo="" group-title="Без метки",ДУМА ТВ (1080p)
-https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зал суда (576p)" tvg-logo="" group-title="Без метки",Зал суда (576p)
-http://95.156.76.230:33001/udp/230.4.34.6:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп ТВ (576p)" tvg-logo="" group-title="Без метки",Калейдоскоп ТВ (576p)
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ключ (576p)" tvg-logo="" group-title="Без метки",Ключ (576p)
-http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Красная Линия (480p)" tvg-logo="" group-title="Без метки",Красная Линия (480p)
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик-ТВ (1080p)" tvg-logo="" group-title="Без метки",Крик-ТВ (1080p)
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЛДПР ТВ (1080p)" tvg-logo="" group-title="Без метки",ЛДПР ТВ (1080p)
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Надежда (720p)" tvg-logo="" group-title="Без метки",Надежда (720p)
-http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Неизвестная Россия (1080p)" tvg-logo="" group-title="Без метки",Неизвестная Россия (1080p)
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ника ТВ (576p)" tvg-logo="" group-title="Без метки",Ника ТВ (576p)
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый информационный (1080p)" tvg-logo="" group-title="Без метки",Первый информационный (1080p)
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый российский национальный канал (1080p)" tvg-logo="" group-title="Без метки",Первый российский национальный канал (1080p)
-http://185.23.80.29:8080/Rezonans/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ПОБЕДА (576p)" tvg-logo="" group-title="Без метки",ПОБЕДА (576p)
-http://93.189.224.246:52900/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали! (576p)" tvg-logo="" group-title="Без метки",Поехали! (576p)
-http://91.247.68.229:8000/play/Poehali/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЖД ТВ (1080p)" tvg-logo="" group-title="Без метки",РЖД ТВ (1080p)
-https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТД (1080p)" tvg-logo="" group-title="Без метки",РТД (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз (1080p)" tvg-logo="" group-title="Без метки",Союз (1080p)
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СПАС (576p)" tvg-logo="" group-title="Без метки",СПАС (576p)
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Театр (576p)" tvg-logo="" group-title="Без метки",Театр (576p)
-http://185.23.80.28:8080/Teatr/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Теледом HD (720p)" tvg-logo="" group-title="Без метки",Теледом HD (720p)
-https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе (576p)" tvg-logo="" group-title="Без метки",Телекафе (576p)
-http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Точка ТВ (576p)" tvg-logo="" group-title="Без метки",Точка ТВ (576p)
 http://94.230.128.105:8080/TochkaTV/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три Ангела (1080p)" tvg-logo="" group-title="Без метки",Три Ангела (1080p)
@@ -293,6 +275,8 @@ http://185.50.148.2:7703/DaVinciLearning/index.m3u8
 http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju+ Premiere (1080p)" tvg-logo="" group-title="Запасные",viju+ Premiere (1080p)
 http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 tvg-id="zapad-24" tvg-name="- Запад 24 [ʜᴅ]" tvg-logo="" group-title="Надо заменить",- Запад 24 [ʜᴅ]
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-name="- АВТО24 (576p)" tvg-logo="" group-title="Надо заменить",- АВТО24 (576p)
 http://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-name="- Беларусь 2 (1080p)" tvg-logo="" group-title="Надо заменить",- Беларусь 2 (1080p)
