@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5d4dzbx6v9rn39p"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° [ꜰʜᴅ]" tvg-logo="" group-title="Основные",360° [ꜰʜᴅ]
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир [ꜰʜᴅ]" tvg-logo="" group-title="Основные",Мир [ꜰʜᴅ]
